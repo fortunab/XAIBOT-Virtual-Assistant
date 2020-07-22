@@ -1,4 +1,4 @@
-# XAIBOT-Virtual-Assistant
+# XAIBOT Explainable AI Virtual Assistant
 Signal, Image and Machine Learning Team, SIMT
 West University of Timisoara, Computer Science.
 This app was developed by Diogen Babuc with the 
